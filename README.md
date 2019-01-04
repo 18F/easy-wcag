@@ -12,6 +12,7 @@ Major value add:
 - There is approachable and understandable guidance about how to fix things.
 
 #Contributing
+
 For folks inside TTS: If you want to help with this project, join the #easy-wcag channel in Slack and ping @nkkl.
 
 For folks outside of TTS: We're not yet in a place to support contributors from outside of our organization. You're more than welcome to follow this repo and get more involved once we get further along.
