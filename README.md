@@ -11,7 +11,7 @@ Major value add:
 - After completing the self-assessment, you get a list of the things you need to fix.
 - There is approachable and understandable guidance about how to fix things.
 
-#Contributing
+# Contributing
 
 For folks inside TTS: If you want to help with this project, join the #easy-wcag channel in Slack and ping @nkkl.
 
